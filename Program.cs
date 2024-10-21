@@ -218,7 +218,7 @@ namespace Ecommerce
 
             }
         }
-        // Função para listar produtos cadastrados com suas categorias e fornecedores
+        // Função para listar produtos cadastrados com suas categorias e fornecedoress
         static void ListarProdutos()
         {
             int i =0;   
